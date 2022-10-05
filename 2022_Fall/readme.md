@@ -31,7 +31,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Breaux, Nediva (@nedivatara) :seedling: :rainbow: :sunny: 
 
-- [ ] Castro, Isaac
+- [X] Castro, Isaac (@isaacmcastro94) :neckbeard:
 
 - [x] Chaganty, Aparna (@aparnachaganty) :fire: :fire:
 
